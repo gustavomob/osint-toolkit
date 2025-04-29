@@ -7,6 +7,7 @@
 4. Links do host, cria um arquivo e salva no diretório links 
 5. Baixa perfil do Instagram
 6. Scan do site   
+7. Scan de portas
 0. Sair
 Pressione <ENTER> para voltar ao menu
 =======================
