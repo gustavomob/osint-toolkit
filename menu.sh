@@ -9,6 +9,7 @@ while true; do
     echo "5. Baixar perfil do Instagram"
     echo "6. Scan de site (whatweb)"
     echo "7. Scan de portas"
+    echo "8. Scan subdominios"
     echo "0. Sair"
     echo "======================="
     read -p "Escolha uma opção: " opcao
@@ -20,7 +21,8 @@ while true; do
         4) bash links.sh ;;
         5) bash instagram.sh ;;
         6) bash whatweb.sh ;;    
-        7) bash scan-ports.sh
+        7) bash scan-ports.sh;;
+        8) bash subdominios.sh;;
         0) exit ;;
         *) echo "Opção inválida!" ;;
     esac

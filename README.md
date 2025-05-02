@@ -8,6 +8,7 @@
 5. Baixa perfil do Instagram
 6. Scan do site   
 7. Scan de portas
+8. Scan de subdominios
 0. Sair
 Pressione <ENTER> para voltar ao menu
 =======================
@@ -16,7 +17,7 @@ Pressione <ENTER> para voltar ao menu
 ## Dependências:
 ```
 sudo apt update
-sudo apt install whois dig traceroute nslookup curl whatweb pipx
+sudo apt install whois dig traceroute nslookup curl whatweb pipx 
 pip install instaloader
 pipx ensurepath
 pipx install sherlock
