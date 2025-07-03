@@ -83,6 +83,7 @@ Instale essas ferramentas para garantir o funcionamento dos scripts:
 - dig, host, curl, wget, grep
 - Para subdominios.sh: subfinder, assetfinder, ou outras ferramentas de enumeração
   
+---
 
 ⚠️ Aviso Legal
 
